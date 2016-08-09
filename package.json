@@ -1,0 +1,22 @@
+{
+  "name": "flowboxint",
+  "version": "1.0.0",
+  "description": "The interview task for FloBox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaayac/floboxint.git"
+  },
+  "author": "Christopher Chaaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaayac/floboxint/issues"
+  },
+  "homepage": "https://github.com/chaayac/floboxint#readme",
+  "dependencies": {
+    "semantic-ui": "^2.2.2"
+  }
+}
