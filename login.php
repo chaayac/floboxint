@@ -112,7 +112,7 @@
 					echo '<script>window.location="home.php"</script>';
 					die();
 				} else {
-					echo "Invalid!";
+					echo "<p style='color:white'>Invalid!</p>";
 				}
 
 			# if twitter button clicked
